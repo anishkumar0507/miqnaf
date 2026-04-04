@@ -1,0 +1,12 @@
+{
+  "name": "miqnaf-website",
+  "version": "1.0.0",
+  "description": "MIQNAF Nafithromycin 800mg – Official Website",
+  "scripts": {
+    "dev": "npx serve . -l 3000 --no-clipboard",
+    "start": "npx serve . -l 3000 --no-clipboard"
+  },
+  "keywords": [],
+  "author": "Wockhardt India",
+  "license": "UNLICENSED"
+}
